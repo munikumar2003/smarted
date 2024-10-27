@@ -40,6 +40,7 @@ const Home = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
             className="mb-6 flex items-center justify-center space-x-2"
+            style={{marginTop: "120px";}}
           >
             <Sparkles className="w-6 h-6 text-yellow-300" />
             <span className="text-yellow-300 font-medium">The Future of Skill Assessment</span>
