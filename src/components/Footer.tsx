@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="space-y-4">
             <Link to="/" className="flex items-center space-x-2">
-            <img src="src\logo.jpeg" alt="SkillRank Logo" className="w-8 h-8" />
+            <img src="logo.jpeg" alt="SkillRank Logo" className="w-8 h-8" />
 
               <span className="font-bold text-xl text-white">SkillRank</span>
             </Link>
