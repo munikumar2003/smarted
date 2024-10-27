@@ -20,7 +20,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center h-16">
         <Link to="/" className="flex items-center space-x-2">
-          <img src="src\logo.jpeg" alt="SkillRank Logo" className="w-8 h-8" />
+          <img src="logo.jpeg" alt="SkillRank Logo" className="w-8 h-8" />
           <span className="font-bold text-xl">SkillRank</span>
         </Link>
 
